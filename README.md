@@ -1,7 +1,7 @@
 # House price prediction using Boston Housing Dataset
 ## > This porject uses Linear Regression model and Decision Tree to predict House prices.
-## > The Dataset used in this project is taken from kaggle.
 ## > About Dataset:
+### The Dataset is taken from Kaggle.
 ### 1) crim: Per capita crime rate by town.
 ### 2) zn: Proportion of large residential lots (over 25,000 sq. ft.).
 ### 3) indus: Proportion of non-retail business acres per town.
